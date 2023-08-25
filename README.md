@@ -1,2 +1,2 @@
 # Dasharath
-this is my  git repositry
+This is my  git repositry
